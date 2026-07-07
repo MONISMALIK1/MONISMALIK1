@@ -17,9 +17,11 @@ I research a company's real, evidenced problem — then build a working prototyp
 | [klaim-denial-shield](https://github.com/MONISMALIK1/klaim-denial-shield) | Explainable pre-submission claim denial-risk scorer + grounded appeal agent for UAE health insurance (DHA/DOH rejection codes) |
 | [alaan-expense-agent](https://github.com/MONISMALIK1/alaan-expense-agent) | Explainable, FTA-defensible expense auto-decision engine |
 | [mamo-fairhold](https://github.com/MONISMALIK1/mamo-fairhold) | Stress-tested rolling-reserve & hold engine for a payment facilitator |
+| [ziina-fairhold](https://github.com/MONISMALIK1/ziina-fairhold) | Bounded, dated holds instead of full-account freezes for a licensed UAE payment company — holds the computed exposure, not 32x the dispute |
 | [keyper-tenant-risk](https://github.com/MONISMALIK1/keyper-tenant-risk) | Explainable tenant default-risk underwriting for rent-now-pay-later |
 | [lune-transaction-enricher](https://github.com/MONISMALIK1/lune-transaction-enricher) | Turns messy bank descriptors into structured merchant + category data |
 | [axxion-repair-audit](https://github.com/MONISMALIK1/axxion-repair-audit) | Explainable pre-payout repair-estimate leakage scorer for UAE motor claims |
+| [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Five more researched problems (Stake, Huspy, Bayzat, Sarwa, Mal) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
 
 ## Research papers, implemented from scratch (zero dependencies)
 
