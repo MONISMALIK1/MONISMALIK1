@@ -21,11 +21,16 @@ I research a company's real, evidenced problem — then build a working prototyp
 | [keyper-tenant-risk](https://github.com/MONISMALIK1/keyper-tenant-risk) | Explainable tenant default-risk underwriting for rent-now-pay-later |
 | [lune-transaction-enricher](https://github.com/MONISMALIK1/lune-transaction-enricher) | Turns messy bank descriptors into structured merchant + category data |
 | [axxion-repair-audit](https://github.com/MONISMALIK1/axxion-repair-audit) | Explainable pre-payout repair-estimate leakage scorer for UAE motor claims |
-| [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Five more researched problems (Stake, Huspy, Bayzat, Sarwa, Mal) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
+| [axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator) | Runnable reference implementation of an agentic claims operating system — intake, routing, scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail |
+| [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Ten researched problems across UAE startups (Stake, Huspy, Bayzat, Sarwa, Mal, and more) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
+
+## AI safety and governance layers
+
+[ai-employee-guard](https://github.com/MONISMALIK1/ai-employee-guard) — a safety layer for AI agents given real authority: only asserts facts on record, only executes allowlisted actions, and hands off to a human when nothing on file resolves the request. Full audit trail. · [shariah-guard](https://github.com/MONISMALIK1/shariah-guard) — a compliance layer for AI-native financial products: grounds every Shariah-relevant AI output and escalates to a human board instead of improvising
 
 ## Research papers, implemented from scratch (zero dependencies)
 
-**RAG:** [rag](https://github.com/MONISMALIK1/rag) (Lewis et al., 2020) · [self_rag](https://github.com/MONISMALIK1/self_rag) · [corrective_rag](https://github.com/MONISMALIK1/corrective_rag) · [hyde](https://github.com/MONISMALIK1/hyde)
+**RAG:** [rag](https://github.com/MONISMALIK1/rag) (Lewis et al., 2020) · [self_rag](https://github.com/MONISMALIK1/self_rag) · [corrective_rag](https://github.com/MONISMALIK1/corrective_rag) · [hyde](https://github.com/MONISMALIK1/hyde) — also [rag-langchain-demo](https://github.com/MONISMALIK1/rag-langchain-demo), the same pattern built on LangChain + Claude
 
 **Agents & reasoning:** [react_agent](https://github.com/MONISMALIK1/react_agent) · [reflexion](https://github.com/MONISMALIK1/reflexion) · [rewoo](https://github.com/MONISMALIK1/rewoo) · [pal](https://github.com/MONISMALIK1/pal) · [self_consistency](https://github.com/MONISMALIK1/self_consistency) · [chain_of_verification](https://github.com/MONISMALIK1/chain_of_verification) · [mixture_of_agents](https://github.com/MONISMALIK1/mixture_of_agents) · [dev_team](https://github.com/MONISMALIK1/dev_team) (multi-agent SWE team)
 
