@@ -25,10 +25,15 @@ I research a company's real, evidenced problem — then build a working prototyp
 | [axxion-repair-audit](https://github.com/MONISMALIK1/axxion-repair-audit) | Explainable pre-payout repair-estimate leakage scorer for UAE motor claims |
 | [axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator) | Runnable reference implementation of an agentic claims operating system — intake, routing, scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail |
 | [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Ten researched problems across UAE startups (Stake, Huspy, Bayzat, Sarwa, Mal, and more) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
+| [property-finder-trust-score](https://github.com/MONISMALIK1/property-finder-trust-score) | Explainable Listing Trust Score for Dubai real estate — perceptual-hash duplicate detection, bait-price outlier tests, CLIP photo-description mismatch; ships as CLI, API, and dashboard |
 
 ## AI safety and governance layers
 
 [ai-employee-guard](https://github.com/MONISMALIK1/ai-employee-guard) — a safety layer for AI agents given real authority: only asserts facts on record, only executes allowlisted actions, and hands off to a human when nothing on file resolves the request. Full audit trail. · [shariah-guard](https://github.com/MONISMALIK1/shariah-guard) — a compliance layer for AI-native financial products: grounds every Shariah-relevant AI output and escalates to a human board instead of improvising
+
+## Production agent pipelines (LangGraph)
+
+[langgraph-fraud-detection](https://github.com/MONISMALIK1/langgraph-fraud-detection) — tiered fraud-detection agent: rule engine, anomaly scoring, and a Claude analyst for gray-zone transactions · [data-refinery](https://github.com/MONISMALIK1/data-refinery) — turns messy mixed-format files into governed, PII-safe, AI-ready datasets, with a DuckDB warehouse, local vector index, quarantine, and lineage
 
 ## Research papers, implemented from scratch (zero dependencies)
 
