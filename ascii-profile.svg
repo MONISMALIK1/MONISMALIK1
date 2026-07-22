@@ -570,9 +570,9 @@ text { font-family: "SFMono-Regular", "Consolas", "Menlo", "DejaVu Sans Mono", m
 <text x="566.0" y="122.0" class="val">malikk.monis@gmail.com</text>
 <text x="512.0" y="156.0" class="hdr">Lines of Code ---------------------------</text>
 <text x="512.0" y="173.0" class="lbl">Total:</text>
-<text x="566.0" y="173.0" class="val">249,870</text>
+<text x="566.0" y="173.0" class="val">266,789</text>
 <text x="512.0" y="190.0" class="lbl">Added:</text>
-<text x="566.0" y="190.0" class="val">253,134 ++</text>
+<text x="566.0" y="190.0" class="val">271,430 ++</text>
 <text x="512.0" y="207.0" class="lbl">Removed:</text>
-<text x="582.0" y="207.0" class="val">3,264 --</text>
+<text x="582.0" y="207.0" class="val">4,641 --</text>
 </svg>
