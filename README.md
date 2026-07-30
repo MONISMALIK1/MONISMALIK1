@@ -2,9 +2,22 @@
 
 # Hi, I'm Monis Malik
 
-**AI/ML Engineer · Dubai, UAE** — I build AI agents and explainable decision systems for real businesses, and I implement the research papers behind them from scratch.
+**AI / GenAI Engineer · Dubai, UAE** — I build LLM agents and explainable decision systems for real businesses, and I implement the research papers behind them from scratch.
 
-**Contact:** malikk.monis@gmail.com
+🟢 **Open to AI / GenAI Engineer roles — UAE or remote.**
+
+[![Email](https://img.shields.io/badge/Email-malikk.monis%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:malikk.monis@gmail.com)
+
+---
+
+## ⭐ Featured
+
+| Project | Why it's worth a look |
+|---|---|
+| **[data-refinery](https://github.com/MONISMALIK1/data-refinery)** | LangGraph pipeline that turns messy mixed-format files into governed, PII-safe, AI-ready datasets — DuckDB warehouse, lineage, quarantine. **30 offline tests + CI, MIT-licensed.** |
+| **[quant-agent](https://github.com/MONISMALIK1/quant-agent)** | Adaptive, self-supervising paper-trading crypto system with a 9-layer risk pipeline. **81 tests + walk-forward backtest** — and honest in the README about what isn't yet statistically significant. |
+| **[langgraph-fraud-detection](https://github.com/MONISMALIK1/langgraph-fraud-detection)** | Tiered fraud-detection agent: rule engine, anomaly scoring, and a Claude analyst for gray-zone transactions. |
+| **[axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator)** | Reference implementation of an agentic claims operating system — scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail. |
 
 ---
 
@@ -26,6 +39,8 @@ I research a company's real, evidenced problem — then build a working prototyp
 | [axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator) | Runnable reference implementation of an agentic claims operating system — intake, routing, scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail |
 | [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Ten researched problems across UAE startups (Stake, Huspy, Bayzat, Sarwa, Mal, and more) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
 | [property-finder-trust-score](https://github.com/MONISMALIK1/property-finder-trust-score) | Explainable Listing Trust Score for Dubai real estate — perceptual-hash duplicate detection, bait-price outlier tests, CLIP photo-description mismatch; ships as CLI, API, and dashboard |
+
+> Note: these are independent, unaffiliated concept prototypes — not official products of the companies named, and built only on public information.
 
 ## AI safety and governance layers
 
@@ -55,6 +70,12 @@ I research a company's real, evidenced problem — then build a working prototyp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
