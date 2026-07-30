@@ -4,13 +4,13 @@
 
 **AI / GenAI Engineer · Dubai, UAE** — I build LLM agents and explainable decision systems for real businesses, and I implement the research papers behind them from scratch.
 
-🟢 **Open to AI / GenAI Engineer roles — UAE or remote.**
+**Open to AI / GenAI Engineer roles — UAE or remote.**
 
 [![Email](https://img.shields.io/badge/Email-malikk.monis%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:malikk.monis@gmail.com)
 
 ---
 
-## ⭐ Featured
+## Featured
 
 | Project | Why it's worth a look |
 |---|---|
