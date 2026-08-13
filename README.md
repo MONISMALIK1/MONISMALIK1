@@ -21,6 +21,16 @@
 
 ---
 
+## Recent work (private)
+
+These are private while in active client conversations — happy to walk through the code or share access. Email **malikk.monis@gmail.com** for details.
+
+- **rasid** — UAE Emiratisation quota tracker: reads an HR roster export, computes every expiring date/amount in plain Python, and holds any drafted message that states a figure it wasn't given.
+- **majlis** — Bilingual (Arabic/English/Arabizi) support triage for UAE queues — redacts personal data before any model call and never auto-answers a regulator escalation.
+- **vouch** — Answers security questionnaires from what you can actually prove — adversarial drafting with a deterministic guard against over-claiming.
+
+---
+
 ## AI prototypes for real UAE companies
 
 I research a company's real, evidenced problem — then build a working prototype slice of the solution:
