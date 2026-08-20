@@ -14,7 +14,7 @@
 
 | Project | Why it's worth a look |
 |---|---|
-| **[data-refinery](https://github.com/MONISMALIK1/data-refinery)** | LangGraph pipeline that turns messy mixed-format files into governed, PII-safe, AI-ready datasets — DuckDB warehouse, lineage, quarantine. **30 offline tests + CI, MIT-licensed.** |
+| **[data-refinery](https://github.com/MONISMALIK1/data-refinery)** | LangGraph pipeline that turns messy mixed-format files into governed, PII-safe, AI-ready datasets — DuckDB warehouse, lineage, quarantine. **34 offline tests + CI, MIT-licensed.** |
 | **[quant-agent](https://github.com/MONISMALIK1/quant-agent)** | Adaptive, self-supervising paper-trading crypto system with a 9-layer risk pipeline. **81 tests + walk-forward backtest** — and honest in the README about what isn't yet statistically significant. |
 | **[langgraph-fraud-detection](https://github.com/MONISMALIK1/langgraph-fraud-detection)** | Tiered fraud-detection agent: rule engine, anomaly scoring, and a Claude analyst for gray-zone transactions. |
 | **[axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator)** | Reference implementation of an agentic claims operating system — scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail. |
