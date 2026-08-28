@@ -50,6 +50,7 @@ I research a company's real, evidenced problem — then build a working prototyp
 | [axxion-repair-audit](https://github.com/MONISMALIK1/axxion-repair-audit) | Explainable pre-payout repair-estimate leakage scorer for UAE motor claims |
 | [axxion-aios-orchestrator](https://github.com/MONISMALIK1/axxion-aios-orchestrator) | Runnable reference implementation of an agentic claims operating system — intake, routing, scoped agents, grounded verification, risk-tiered human gate, hash-chained audit trail |
 | [uae-startup-solutions](https://github.com/MONISMALIK1/uae-startup-solutions) | Ten researched problems across UAE startups (Stake, Huspy, Bayzat, Sarwa, Mal, and more) each solved with a compact explainable engine — CBUAE mortgage pre-underwriting, AAOIFI Shariah screening, grounded claims agents |
+| [motor-issuance-two-minute-bind](https://github.com/MONISMALIK1/motor-issuance-two-minute-bind) | Agent-assisted motor-insurance application flow: a clickable eight-screen prototype and a timeline putting a bound policy at ~1:14, with an honest P50/P90 account of where UAE PASS and 3DS blow the budget |
 | [property-finder-trust-score](https://github.com/MONISMALIK1/property-finder-trust-score) | Explainable Listing Trust Score for Dubai real estate — perceptual-hash duplicate detection, bait-price outlier tests, CLIP photo-description mismatch; ships as CLI, API, and dashboard |
 
 > Note: these are independent, unaffiliated concept prototypes — not official products of the companies named, and built only on public information.
