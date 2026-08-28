@@ -60,7 +60,7 @@ I research a company's real, evidenced problem — then build a working prototyp
 
 ## Production agent pipelines (LangGraph)
 
-[langgraph-fraud-detection](https://github.com/MONISMALIK1/langgraph-fraud-detection) — tiered fraud-detection agent: rule engine, anomaly scoring, and a Claude analyst for gray-zone transactions · [data-refinery](https://github.com/MONISMALIK1/data-refinery) — turns messy mixed-format files into governed, PII-safe, AI-ready datasets, with a DuckDB warehouse, local vector index, quarantine, and lineage
+[langgraph-fraud-detection](https://github.com/MONISMALIK1/langgraph-fraud-detection) — tiered fraud-detection agent: rule engine, anomaly scoring, and a Claude analyst for gray-zone transactions · [data-refinery](https://github.com/MONISMALIK1/data-refinery) — turns messy mixed-format files into governed, PII-safe, AI-ready datasets, with a DuckDB warehouse, local vector index, quarantine, and lineage · [extended-stay-booking-agent](https://github.com/MONISMALIK1/extended-stay-booking-agent) — conversational booking for 30-365 night furnished stays, built two-brain so the LLM handles the conversation and never touches a price
 
 ## Research papers, implemented from scratch (zero dependencies)
 
