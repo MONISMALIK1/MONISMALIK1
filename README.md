@@ -72,7 +72,7 @@ I research a company's real, evidenced problem — then build a working prototyp
 
 ## Developer tools for LLM systems
 
-[prompt-guard](https://github.com/MONISMALIK1/prompt-guard) — prompt-injection detection · [agent-watchdog](https://github.com/MONISMALIK1/agent-watchdog) — loop detector + cost kill switch for agents · [prompt-sentinel](https://github.com/MONISMALIK1/prompt-sentinel) — git-native prompt regression testing · [migration-guard](https://github.com/MONISMALIK1/migration-guard) · [stripe-reconciler](https://github.com/MONISMALIK1/stripe-reconciler) · [api-breakcheck](https://github.com/MONISMALIK1/api-breakcheck) · [env-sentinel](https://github.com/MONISMALIK1/env-sentinel)
+[prompt-guard](https://github.com/MONISMALIK1/prompt-guard) — prompt-injection detection · [agent-watchdog](https://github.com/MONISMALIK1/agent-watchdog) — loop detector + cost kill switch for agents · [prompt-sentinel](https://github.com/MONISMALIK1/prompt-sentinel) — git-native prompt regression testing · [migration-guard](https://github.com/MONISMALIK1/migration-guard) · [stripe-reconciler](https://github.com/MONISMALIK1/stripe-reconciler) · [api-breakcheck](https://github.com/MONISMALIK1/api-breakcheck) · [env-sentinel](https://github.com/MONISMALIK1/env-sentinel) · [prompt-forge](https://github.com/MONISMALIK1/prompt-forge) — expands a rough task description into a senior-engineer-quality prompt · [taskforge](https://github.com/MONISMALIK1/taskforge) — agent backend that executes a plain-English task with real tools (HTTP, file I/O, shell); FastAPI + Docker
 
 ## Low-resource NLP
 
