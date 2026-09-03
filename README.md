@@ -81,6 +81,10 @@ I research a company's real, evidenced problem — then build a working prototyp
 
 [Kashmiri-tts-model](https://github.com/MONISMALIK1/Kashmiri-tts-model) — text-to-speech for Kashmiri, a low-resource language
 
+## Computer vision
+
+[bioscan-ar](https://github.com/MONISMALIK1/bioscan-ar) — real-time anatomical AR mirror: webcam pose tracking drives a procedural render of a full skeleton, organs with a beating heart on a real cardiac cycle, and the arterial/venous trees down to peripheral branches
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
