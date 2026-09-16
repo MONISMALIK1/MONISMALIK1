@@ -27,6 +27,12 @@
 
 These are private while in active client conversations — happy to walk through the code or share access. Email **malikk.monis@gmail.com** for details.
 
+- **sanad** — Claim denial and pre-auth triage for UAE healthcare providers: eligibility, denial classification, and SLA clocks computed in Python, with a gate that holds any appeal citing a clinical code the chart doesn't document.
+- **guardrail-mcp** — Pre-production guardrails exposed to AI agents over the Model Context Protocol. Zero dependencies, 53 tests.
+- **mindgraph** — Local-first knowledge graph with evidence-backed retrieval, a browser UI, and agent memory interfaces.
+- **bayan** — Customs declaration reconciliation for the UAE trade corridor: cross-document checks, duty recomputation, and demurrage accrual, with a gate that holds any amendment citing a document not in the pack.
+- **yaqeen** — AML alert triage for transaction-monitoring queues: scores every pattern in plain Python, escalates any recommendation that cites a record it wasn't given.
+- **salonflow** — WhatsApp-based salon front desk: instant invoicing and appointment booking, runs in mock mode with no API keys needed.
 - **rasid** — UAE Emiratisation quota tracker: reads an HR roster export, computes every expiring date/amount in plain Python, and holds any drafted message that states a figure it wasn't given.
 - **majlis** — Bilingual (Arabic/English/Arabizi) support triage for UAE queues — redacts personal data before any model call and never auto-answers a regulator escalation.
 - **vouch** — Answers security questionnaires from what you can actually prove — adversarial drafting with a deterministic guard against over-claiming.
